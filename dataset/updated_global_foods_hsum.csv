@@ -1,0 +1,352 @@
+en_name,th_name,ingredients,course,province,region
+Koi,ก้อย,"['beef', 'lime juice', 'fish sauce', 'chili', 'herbs']",main dish,Ubon Ratchathani,Northeast
+Kuai Chap,กวยจั๊บ,"['pork belly', 'rice noodles', 'soy sauce', 'garlic']",main dish,Bangkok,Central
+Kuai Tiao,ก๋วยเตี๋ยว,"['rice noodles', 'pork', 'bean sprouts', 'garlic', 'fish sauce']",main dish,Bangkok,Central
+Kuai Tiao Khaek,ก๋วยเตี๋ยวแขก,"['beef', 'noodles', 'curry powder', 'coconut milk']",main dish,Ayutthaya,Central
+Kuai Tiao Kua Kai,ก๋วยเตี๋ยวคั่วไก่,"['chicken', 'noodles', 'soy sauce', 'garlic']",main dish,Bangkok,Central
+Kuai Tiao Pak Mo,ก๋วยเตี๋ยวปากหม้อ,"['pork', 'herbs', 'rice flour', 'garlic']",main dish,Nakhon Pathom,Central
+Kuai Tiao Mon,ก๋วยเตี๋ยวมอญ,"['rice noodles', 'pork', 'fish sauce', 'herbs']",main dish,Nonthaburi,Central
+Kuai Tiao Ruea,ก๋วยเตี๋ยวเรือ,"['rice noodles', 'pork', 'blood broth', 'bean sprouts']",main dish,Ayutthaya,Central
+Kung Chae Nam Pla,กุ้งแช่น้ำปลา,"['shrimp', 'fish sauce', 'garlic', 'chili']",main dish,Coastal provinces,South
+Koey Yeung Kok Siang Bi,เกยย้งก๊กเซียงบี๊,"['herbs', 'pork', 'soy sauce']",main dish,Bangkok,Central
+Kao Lao,เกาเหลา,"['broth', 'vegetables', 'garlic', 'fish sauce']",main dish,Bangkok,Central
+Kiem Ee,เกี้ยมอี๋,"['rice noodles', 'pork', 'garlic', 'fish sauce']",main dish,Bangkok,Central
+Kai Koa Lae,ไก่กอและ,"['chicken', 'spices', 'coconut milk', 'turmeric']",main dish,Pattani,South
+Kai Katet,ไก่กะเต๊ะ,"['chicken', 'spices', 'soy sauce', 'garlic']",main dish,Unknown,Unknown
+Kai Tai Nam,ไก่ใต้น้ำ,"['chicken', 'herbs', 'soy sauce', 'garlic']",main dish,Northern provinces,North
+Kai Yang,ไก่ย่าง,"['chicken', 'soy sauce', 'garlic']",main dish,Khon Kaen,Northeast
+Kai Ob Fang,ไก่อบฟาง,"['chicken', 'straw', 'soy sauce', 'garlic']",main dish,Rural areas,Central
+Khanom Chin,ขนมจีน,"['fermented rice noodles', 'curry', 'coconut milk']",main dish,Various,Various
+Khanom Chin Kaeng Kai Kua,ขนมจีนแกงไก่คั่ว,"['rice noodles', 'chicken curry', 'coconut milk']",main dish,Various,Various
+Kao Kan Jin,ข้าวกั๊นจิ๊น,"['rice', 'pork blood', 'garlic', 'fish sauce']",main dish,Northern provinces,North
+Kao Kha Mu,ข้าวขาหมู,"['pork leg', 'rice', 'garlic', 'soy sauce']",main dish,Bangkok,Central
+Kao Khluk Kapi,ข้าวคลุกกะปิ,"['rice', 'shrimp paste', 'garlic', 'chili']",main dish,Bangkok,Central
+Kao Chi,ข้าวจี่,"['sticky rice', 'soy sauce', 'garlic']",main dish,Rural areas,Northeast
+Kao Chae,ข้าวแช่,"['rice in jasmine-scented water', 'shrimp paste balls', 'garlic']",main dish,Central provinces,Central
+Kao Soi,ข้าวซอย,"['curry noodles', 'chicken', 'coconut milk']",main dish,Chiang Mai,North
+Kao Dok Rai,ข้าวดอกราย,"['fish', 'rice', 'herb']",main dish,Unknown,Unknown
+Kao Tom,ข้าวต้ม,"['rice porridge', 'pork', 'garlic', 'fish sauce']",main dish,Various,Various
+Kao Pheup,ข้าวเปิ๊บ,"['flour', 'egg', 'vegetables']",main dish,Unknown,Unknown
+Kao Phat,ข้าวผัด,"['fried rice', 'soy sauce', 'garlic']",main dish,Various,Various
+Kao Phat Sapparot,ข้าวผัดสับปะรด,"['pineapple fried rice', 'soy sauce', 'garlic']",main dish,Coastal provinces,South
+Kao Phat American,ข้าวผัดอเมริกัน,"['american-style fried rice', 'soy sauce', 'garlic']",main dish,Bangkok,Central
+Kao Man Kaeng Kai,ข้าวมันแกงไก่,"['chicken curry with rice', 'garlic', 'soy sauce']",main dish,Various,Various
+Kao Man Kai,ข้าวมันไก่,"['chicken with rice', 'garlic', 'soy sauce']",main dish,Bangkok,Central
+Kao Man Somtam,ข้าวมันส้มตำ,"['rice with papaya salad', 'garlic', 'chili']",main dish,Various,Various
+Kao Maew,ข้าวแมว,"['rice', 'mackerel']",main dish,Various,Various
+Kao Yam,ข้าวยำ,"['rice salad', 'vegetables', 'herbs']",main dish,Southern provinces,South
+Kao Rad Na Kai,ข้าวราดหน้าไก่,"['rice topped with chicken', 'garlic', 'soy sauce']",main dish,Bangkok,Central
+Kao Na Ped,ข้าวหน้าเป็ด,"['rice with duck', 'garlic', 'soy sauce']",main dish,Bangkok,Central
+Kao Mok,ข้าวหมก,"['biryani rice', 'chicken', 'spices']",main dish,Southern provinces,South
+Kai Paam,ไข่ป่าม,"['egg', 'garlic', 'herbs']",main dish,Northern provinces,North
+Jok,โจ๊ก,"['rice porridge', 'pork', 'garlic', 'fish sauce']",main dish,Bangkok,Central
+Soi Ju,ซอยจุ๊,"['beef ', 'herbs', 'garlic']",main dish,Northeast provinces,Northeast
+Tam Tang,ตำแตง,"['cucumber salad', 'chili', 'garlic']",main dish,Various,Various
+Nam Tok,น้ำตก,"['meat salad', 'chili', 'garlic']",main dish,Various,Various
+Phat Khi Mao,ผัดขี้เมา,"['drunken noodles', 'chili', 'garlic']",main dish,Bangkok,Central
+Phat See Ew,ผัดซีอิ๊ว,"['stir-fried noodles', 'soy sauce', 'garlic']",main dish,Bangkok,Central
+Phat Thai,ผัดไทย,"['thai stir-fried noodles', 'fish sauce', 'garlic']",main dish,Bangkok,Central
+Yam Pla Duk Fu,ยำปลาดุกฟู,"['crispy catfish salad', 'fish sauce', 'garlic']",main dish,Various,Various
+Yam Sam Krob,ยำสามกรอบ,"['three crispy salad', 'fish sauce', 'garlic']",main dish,Various,Various
+Yam Yai,ยำใหญ่,"['mixed salad', 'fish sauce', 'garlic']",main dish,Various,Various
+Yen Ta Fo,เย็นตาโฟ,"['pink noodle soup', 'fish sauce', 'garlic']",main dish,Bangkok,Central
+Ro Yor,รอเยาะ,"['rice vermicelli', 'vegetable', 'tofu']",main dish,Unknown,South
+Rad Na,ราดหน้า,"['stir-fried noodles with gravy', 'soy sauce', 'garlic']",main dish,Bangkok,Central
+Lab,ลาบ,"['minced meat salad', 'fish sauce', 'garlic']",main dish,Northeast provinces,Northeast
+Som Tam,ส้มตำ,"['papaya', 'fish sauce', 'garlic', 'chili']",main dish,Various,Various
+Suea Rong Hai,เสือร้องไห้,"['beef', 'fish sauce', 'garlic']",main dish,Northeast provinces,Northeast
+Sai Krok Isan,ไส้กรอกอีสาน,"['isan sausage', 'garlic', 'chili']",main dish,Northeast provinces,Northeast
+Sai Ua,ไส้อั่ว,"['northern sausage', 'garlic', 'chili']",main dish,Northern provinces,North
+Mee Krob,หมี่กรอบ,"['crispy noodles', 'fish sauce', 'garlic']",main dish,Bangkok,Central
+Mee Kati,หมี่กะทิ,"['coconut milk noodles', 'fish sauce', 'garlic']",main dish,Central provinces,Central
+Moo Manao,หมูมะนาว,"['pork with lime', 'garlic', 'chili']",main dish,Various,Various
+Hoi Tod,หอยทอด,"['oyster omelette', 'fish sauce', 'garlic']",main dish,Coastal provinces,South
+Kaeng Kradang,แกงกระด้าง,"['pork', 'gelatin', 'herbs']",main dish,Northern provinces,North
+Kaeng Kari,แกงกะหรี่,"['curry powder', 'coconut milk', 'meat']",main dish,Various,Various
+Kaeng Khanun,แกงขนุน,"['jackfruit', 'pork', 'herbs']",main dish,Northern provinces,North
+Kaeng Khee Lek,แกงขี้เหล็ก,"['senna siamea leaves', 'pork', 'herbs']",main dish,Various,Various
+Kaeng Khiao Wan,แกงเขียวหวาน,"['green curry paste', 'coconut milk', 'meat']",main dish,Various,Various
+Kaeng Kua,แกงคั่ว,"['curry paste', 'coconut milk', 'meat']",main dish,Various,Various
+Kaeng Khae,แกงแค,"['herbs', 'meat', 'vegetables']",main dish,Northern provinces,North
+Kaeng Chin Chuan,แกงจีนจ๊วน,"['herbs', 'pork', 'fermented fish']",main dish,Various,Various
+Kaeng Chuet,แกงจืด,"['clear broth', 'meat', 'vegetables']",main dish,Various,Various
+Kaeng Chuek Som,แกงชักส้ม,"['tamarind paste', 'fish', 'herbs']",main dish,Various,Various
+Kaeng Thepho,แกงเทโพ,"['pork belly', 'curry paste', 'vegetables']",main dish,Central provinces,Central
+Kaeng Buan,แกงบวน,"['herbs', 'pork blood', 'vegetables']",main dish,Central provinces,Central
+Kaeng Bon,แกงบอน,"['taro stems', 'curry paste', 'meat']",main dish,Various,Various
+Kaeng Bum Bai,แกงบุ่มไบ่,"['curry paste', 'coconut milk', 'chicken']",main dish,Various,Various
+Kaeng Paa,แกงป่า,"['herbs', 'meat', 'vegetables']",main dish,Various,Various
+Kaeng Poe,แกงเปอะ,"['fermented fish', 'curry paste', 'vegetables']",main dish,Northeast provinces,Northeast
+Kaeng Phet,แกงเผ็ด,"['red curry paste', 'coconut milk', 'meat']",main dish,Various,Various
+Kaeng Matsaman,แกงมัสมั่น,"['massaman curry paste', 'coconut milk', 'meat']",main dish,Southern provinces,South
+Kaeng Rawaeng,แกงระแวง,"['curry paste', 'coconut milk', 'meat']",main dish,Central provinces,Central
+Kaeng Runjuan,แกงรัญจวน,"['herbs', 'pork', 'shrimp paste']",main dish,Central provinces,Central
+Kaeng Liang,แกงเลียง,"['herbs', 'shrimp', 'vegetables']",main dish,Various,Various
+Kaeng Kati,แกงกะทิ,"['meat', 'herb', 'vegetable']",main dish,Unknown,Unknown
+Kaeng Som,แกงส้ม,"['sour curry paste', 'fish', 'vegetables']",main dish,Various,Various
+Kaeng Salae,แกงสะแล,"['herbs', 'meat', 'vegetables']",main dish,Various,Various
+Kaeng Lueang,แกงเหลือง,"['yellow curry paste', 'fish', 'vegetables']",main dish,Southern provinces,South
+Kaeng Hang Le,แกงฮังเล,"['hang lay curry paste', 'pork', 'ginger']",main dish,Northern provinces,North
+Kaeng Ho,แกงโฮะ,"['herbs', 'curry', 'meat']",main dish,Unknown,Unknown
+Kai Hor Bai Toey,ไก่ห่อใบเตย,"['chicken', 'pandan leaves', 'soy sauce']",main dish,Various,Various
+Kha Kai Super,ขาไก่ซุปเปอร์,"['chicken feet', 'herbs', 'spices']",main dish,Bangkok,Central
+Kai Jeow,ไข่เจียว,"['eggs', 'oil', 'fish sauce']",main dish,Various,Various
+Kai Dao,ไข่ดาว,"['eggs', 'oil']",main dish,Various,Various
+Kai Nam,ไข่น้ำ,"['eggs', 'broth', 'vegetables']",main dish,Various,Various
+Kai Yat Sai,ไข่ยัดไส้,"['eggs', 'vegetables', 'meat']",main dish,Various,Various
+Kai Raberd,ไข่ระเบิด,"['eggs', 'vegetables', 'meat']",main dish,Unknown,Unknown
+Kai Look Kheuy,ไข่ลูกเขย,"['hard-boiled eggs', 'tamarind sauce']",main dish,Various,Various
+Kua Kling,คั่วกลิ้ง,"['ground pork', 'curry paste']",main dish,Southern provinces,South
+Cho Phak Kat,จอผักกาด,"['pickled mustard greens', 'pork', 'herbs']",main dish,Northern provinces,North
+Jub Chai,จับฉ่าย,"['mixed vegetables', 'meat', 'soy sauce']",main dish,Various,Various
+Chu Chi,ฉู่ฉี่,"['herbs', 'curry paste', 'fish']",main dish,Various,Various
+Sup Khreung Nai,ซุปเครื่องใน,"['offal', 'herbs', 'spices']",main dish,Various,Various
+Sup Singapore,ซุปสิงคโปร์,"['herbs', 'meat', 'spices']",main dish,Various,Various
+Tom Kati,ต้มกะทิ,"['coconut milk', 'meat', 'herbs']",main dish,Various,Various
+Tom Kha Kai,ต้มข่าไก่,"['coconut milk', 'chicken', 'galangal']",main dish,Various,Various
+Tom Khreung Nai Moo,ต้มเครื่องในหมู,"['pork offal', 'herbs']",main dish,Various,Various
+Tom Kloang,ต้มโคล้ง,"['herbs', 'fish', 'spices']",main dish,Various,Various
+Tom Jiw,ต้มจิ๋ว,"['herbs', 'meat', 'spices']",main dish,Various,Various
+Tom Saep,ต้มแซ่บ,"['herbs', 'meat', 'spices']",main dish,Northeast provinces,Northeast
+Tom Pret,ต้มเปรต,"['eel', 'herbs']",main dish,Unknown,Unknown
+Tom Yam,ต้มยำ,"['herbs', 'shrimp', 'spices']",main dish,Various,Various
+Tom Som,ต้มส้ม,"['sour broth', 'fish', 'herbs']",main dish,Various,Various
+Tai Pla,ไตปลา,"['fermented fish entrails', 'curry paste', 'vegetables']",main dish,Southern provinces,South
+Tod Mun,ทอดมัน,"['fish paste', 'herbs', 'spices']",main dish,Various,Various
+Nam Ngiao,น้ำเงี้ยว,"['rice noodles', 'blood tofu', 'herbs']",main dish,Northern provinces,North
+Tod Mun Kung,ทอดมันกุ้ง,"['shrimp paste', 'herbs', 'spices']",main dish,Unknown,Unknown
+Poo Ja,ปูจ๋า,"['crab meat', 'herbs', 'spices']",main dish,Various,Various
+Phat Kaphrao,ผัดกะเพรา,"['holy basil', 'meat', 'garlic']",main dish,Various,Various
+Phat Khing,ผัดขิง,"['ginger', 'meat', 'garlic']",main dish,Various,Various
+Phat Cha,ผัดฉ่า,"['herbs', 'meat', 'spices']",main dish,Various,Various
+Phat Priao Wan,ผัดเปรี้ยวหวาน,"['sweet and sour sauce', 'meat', 'vegetables']",main dish,Various,Various
+Phat Phong Kari,ผัดผงกะหรี่,"['curry powder', 'meat', 'vegetables']",main dish,Various,Various
+Phat Phak Bung,ผัดผักบุ้ง,"['morning glory', 'garlic', 'soy sauce']",main dish,Various,Various
+Phat Prik Khing,ผัดพริกขิง,"['herbs', 'meat', 'spices']",main dish,Various,Various
+Phat Sam Muen,ผัดสามเหม็น,"['herbs', 'meat', 'garlic']",main dish,Various,Various
+Pla,พล่า,"['herbs', 'meat', 'spices']",main dish,Various,Various
+Panaeng,พะแนง,"['panaeng curry paste', 'coconut milk', 'meat']",main dish,Various,Various
+Pa Lo,พะโล้,"['chinese five-spice', 'meat', 'soy sauce']",main dish,Various,Various
+Yam Kai Dao,ยำไข่ดาว,"['fried eggs', 'fish sauce', 'herbs']",main dish,Various,Various
+Leng Saep,เล้งแซ่บ,"['pork spine', 'herbs', 'spices']",main dish,Various,Various
+Mok,หมก,"['meat', 'herb']",main dish,Unknown,Unknown
+Lon,หลน,"['coconut milk', 'meat', 'herbs']",main dish,Unknown,Unknown
+Moo Cha Muang,หมูชะมวง,"['pork', 'garcinia cowa', 'herbs']",main dish,Various,Various
+Moo Wan,หมูหวาน,"['sweetened pork', 'soy sauce']",main dish,Various,Various
+Moo Hong,หมูฮ้อง,"['stewed pork belly', 'herbs', 'spices']",main dish,Southern provinces,South
+Om,อ่อม,"['herbs', 'meat', 'vegetables']",main dish,Various,Various
+Krob Kem,กรอบเค็ม,"['rice flour', 'fish sauce', 'herbs']",snack,Bangkok,Central
+Kratong Thong,กระทงทอง,"['rice flour', 'fish', 'vegetables']",snack,Unknown,Unknown
+Kuay Teow Lord,ก๋วยเตี๋ยวหลอด,"['rice noodles', 'soy sauce', 'herbs']",main dish,Bangkok,Central
+Kari Puff,กะหรี่ปั๊บ,"['flour', 'curry powder', 'potato']",snack,Bangkok,Central
+Kung Ten,กุ้งเต้น,"['shrimp', 'herbs', 'fish sauce']",snack,Unknown,Unknown
+Ko Kae,โก๋แก่,['bean'],snack,Unknown,Unknown
+Kanom Kui Chai,ขนมกุยช่าย,"['flour', 'chives', 'soy sauce']",snack,Various,Various
+Kanom Kheng,ขนมเข่ง,"['glutinous rice flour', 'sugar']",dessert,Various,Various
+Kanom Jeeb,ขนมจีบ,"['flour', 'pork', 'herbs']",snack,Bangkok,Central
+Kanom Tokyo,ขนมโตเกียว,"['flour', 'custard', 'sugar']",dessert,Bangkok,Central
+Kanom Pang Ka Kai,ขนมปังขาไก่,"['flour', 'sugar', 'butter']",snack,Bangkok,Central
+Kanom Pang Na Moo,ขนมปังหน้าหมู,"['pork', 'flour', 'herbs']",snack,Bangkok,Central
+Kanom Pak Kad,ขนมผักกาด,"['rice flour', 'vegetables', 'soy sauce']",snack,Bangkok,Central
+Khao Kriap Kung,ข้าวเกรียบกุ้ง,"['shrimp paste', 'flour', 'herbs']",snack,Bangkok,Central
+Khao Kriap Pak Mo,ข้าวเกรียบปากหม้อ,"['rice flour', 'pork', 'herbs']",snack,Various,Various
+Khao Kriap Ya Na,ข้าวเกรียบยาหน้า,"['rice flour', 'vegetables', 'herbs']",snack,Various,Various
+Khao Tom Bai Kapho,ข้าวต้มใบกะพ้อ,"['glutinous rice', 'banana', 'coconut milk']",dessert,Various,Various
+Khao Tom Mat,ข้าวต้มมัด,"['glutinous rice', 'banana', 'coconut milk']",dessert,Various,Various
+Khao Tang Na Tang,ข้าวตังหน้าตั้ง,"['rice crackers', 'coconut milk', 'pork']",snack,Various,Various
+Khao Mao,ข้าวเม่า,"['glutinous rice', 'banana', 'coconut milk']",dessert,Various,Various
+Khao Niao Ping,ข้าวเหนียวปิ้ง,"['glutinous rice', 'coconut milk']",snack,Various,Various
+Kai Kwam,ไข่คว่ำ,"['eggs', 'herbs', 'spices']",main dish,Various,Various
+Khrong Khrang Krop,ครองแครงกรอบ,"['rice flour', 'sugar', 'herbs']",snack,Various,Various
+Khang Khao Pueak,ค้างคาวเผือก,"['taro', 'flour', 'sugar']",snack,Various,Various
+Kaep Moo,แคบหมู,"['pork skin', 'salt', 'spices']",snack,Northern provinces,North
+Salapao,ซาลาเปา,"['flour', 'pork', 'sugar']",snack,Various,Various
+Soup Asa Ren,ซุปอาสาเรน,"['herbs', 'vegetables', 'egg']",soup,Bangkok,Central
+Thung Thong,ถุงทอง,"['flour', 'pork', 'vegetables']",snack,Bangkok,Central
+Pa Thong Ko,ปาท่องโก๋,"['flour', 'sugar', 'oil']",snack,Various,Various
+Poh Pia,เปาะเปี๊ยะ,"['flour', 'pork', 'vegetables']",snack,Various,Various
+Mata Ba,มะตะบะ,"['flour', 'egg', 'vegetables']",snack,Southern provinces,South
+Ma Ho,ม้าฮ่อ,"['flour', 'sugar', 'pineapple']",snack,Various,Various
+Miang Kham,เมี่ยงคำ,"['herbs', 'coconut', 'shrimp']",snack,Various,Various
+Loba,โลบะ,"['pork', 'herbs', 'spices']",main dish,Southern provinces,South
+Som Choon Yam,ส้มฉุน (ยำ),"['herbs', 'fruit', 'fish sauce']",salad,Various,Various
+Sate,สะเต๊ะ,"['meat', 'spices', 'peanut sauce']",snack,Southern provinces,South
+Moo Ping,หมูปิ้ง,"['pork', 'soy sauce', 'herbs']",snack,Various,Various
+Hoi Jo,ฮ่อยจ๊อ,"['crab', 'flour', 'herbs']",snack,Southern provinces,South
+Kraya Sadt,กระยาสารท,"['rice', 'peanuts', 'sugar']",dessert,Various,Various
+Kluay Kaek,กล้วยแขก,"['flour', 'banana', 'sugar']",snack,Various,Various
+Kluay Buat Chi,กล้วยบวชชี,"['banana', 'coconut milk', 'sugar']",dessert,Various,Various
+Klub Lamduan,กลีบลำดวน,"['rice flour', 'sugar', 'coconut milk']",dessert,Various,Various
+Kalamae,กะละแม,"['glutinous rice flour', 'coconut milk', 'sugar']",dessert,Various,Various
+Kaeng Buat,แกงบวด,"['herbs', 'coconut milk', 'sugar']",dessert,Various,Various
+Kanom Gong,ขนมกง,"['rice flour', 'sugar']",dessert,Various,Various
+Kanom Grok,ขนมกรอก,"['coconut', 'flour', 'sugar']",snack,Various,Various
+Kanom Ko,ขนมก้อ,"['rice flour', 'coconut', 'sugar']",dessert,Various,Various
+Kanom Kusarang,ขนมกุสรัง,"['rice flour', 'herbs', 'coconut milk']",dessert,Various,Various
+Kanom Kee Nu,ขนมขี้หนู,"['flour', 'sugar', 'coconut milk']",snack,Various,Various
+Kanom Kheaw,ขนมเขียว,"['pandan', 'coconut milk', 'sugar']",snack,Various,Various
+Kanom Khai,ขนมไข่,"['eggs', 'flour', 'sugar']",snack,Various,Various
+Kanom Khai Nok Krata,ขนมไข่นกกระทา,"['pandan', 'flour', 'sugar']",snack,Various,Various
+Kanom Khai Hong,ขนมไข่หงส์,"['glutinous rice flour', 'sugar', 'coconut milk']",snack,Various,Various
+Kanom Krok,ขนมครก,"['rice flour', 'coconut milk', 'sugar']",snack,Various,Various
+Kanom Kui Ling,ขนมควยลิง,"['rice flour', 'coconut', 'sugar']",snack,Various,Various
+Kanom Chak,ขนมจาก,"['rice flour', 'sugar', 'coconut']",snack,Various,Various
+Kanom Chan,ขนมชั้น,"['rice flour', 'coconut milk', 'sugar']",dessert,Various,Various
+Kanom Tom,ขนมต้ม,"['glutinous rice flour', 'coconut', 'sugar']",dessert,Various,Various
+Kanom Tan,ขนมตาล,"['palm sugar', 'flour', 'coconut milk']",dessert,Various,Various
+Kanom Thuai,ขนมถ้วย,"['rice flour', 'coconut milk', 'sugar']",dessert,Various,Various
+Kanom Thuai Fu,ขนมถ้วยฟู,"['rice flour', 'yeast', 'coconut milk']",dessert,Various,Various
+Kanom Thang Taek,ขนมถังแตก,"['rice flour', 'coconut milk', 'sugar']",snack,Various,Various
+Kanom Tua Paeb,ขนมถั่วแปบ,"['rice flour', 'herbs', 'sugar']",snack,Various,Various
+Kanom Thien,ขนมเทียน,"['glutinous rice flour', 'coconut milk', 'sugar']",dessert,Various,Various
+Kanom Ba Bin,ขนมบ้าบิ่น,"['flour', 'coconut', 'sugar']",snack,Various,Various
+Kanom Beung,ขนมเบื้อง,"['rice flour', 'sugar', 'coconut milk']",snack,Various,Various
+Kanom Pia,ขนมเปี๊ยะ,"['flour', 'green beans', 'sugar']",snack,Various,Various
+Kanom Ping,ขนมผิง,"['flour', 'coconut milk', 'sugar']",snack,Various,Various
+Kanom Farang Kudi Chin,ขนมฝรั่งกุฎีจีน,"['flour', 'sugar', 'fruit']",dessert,Various,Various
+Kanom Piak Pun,ขนมเปียกปูน,"['rice flour', 'sugar', 'coconut milk']",dessert,Various,Various
+Kanom Man Sampalang,ขนมมันสำปะหลัง,"['cassava', 'flour', 'sugar']",dessert,Various,Various
+Kanom Luem Gluen,ขนมลืมกลืน,"['rice flour', 'sugar', 'coconut milk']",dessert,Various,Various
+Kanom Wong,ขนมวง,"['rice flour', 'sugar', 'coconut milk']",snack,Various,Various
+Kanom Mor Kaeng,ขนมหม้อแกง,"['flour', 'coconut', 'sugar']",dessert,Various,Various
+Khao Jee,ข้าวจี่,"['glutinous rice', 'egg', 'sugar']",snack,Various,Various
+Khao Daek Nga,ข้าวแดกงา,"['rice flour', 'sesame', 'sugar']",snack,Various,Various
+Khao Tom Nam Woon,ข้าวต้มน้ำวุ้น,"['glutinous rice', 'coconut milk', 'sugar']",dessert,Various,Various
+Khao Tu,ข้าวตู,"['rice flour', 'sugar', 'coconut milk']",snack,Various,Various
+Khao Pong,ข้าวโป่ง,"['rice flour', 'sugar', 'coconut milk']",snack,Various,Various
+Khao Lam,ข้าวหลาม,"['glutinous rice', 'coconut milk', 'sugar']",dessert,Various,Various
+Khao Niao Mamuang,ข้าวเหนียวมะม่วง,"['glutinous rice', 'ripe mango', 'coconut milk']",dessert,Various,Various
+Chao Kuai,เฉาก๊วย,"['grass jelly', 'herbs', 'sugar']",dessert,Various,Various
+Sa Rim,ซ่าหริ่ม,"['flour', 'coconut milk', 'sugar']",dessert,Various,Various
+Tau Huai,เต้าฮวย,"['soy milk', 'herbs', 'sugar']",dessert,Various,Various
+Thu Kiao Tom Nam Tan,ถั่วเขียวต้มน้ำตาล,"['mung beans', 'sugar', 'coconut milk']",dessert,Various,Various
+Thong Muon,ทองม้วน,"['rice flour', 'coconut milk', 'sugar']",snack,Various,Various
+Thong Yod,ทองหยอด,"['flour', 'sugar', 'egg yolk']",dessert,Various,Various
+Thong Yip,ทองหยิบ,"['flour', 'sugar', 'egg yolk']",dessert,Various,Various
+Thong Ek,ทองเอก,"['flour', 'sugar', 'egg yolk']",dessert,Various,Various
+Tub Tim Grob,ทับทิมกรอบ,"['chestnuts', 'flour', 'coconut milk']",dessert,Various,Various
+Nam Khaeng Sai,น้ำแข็งไส,"['ice', 'flavored syrup', 'fruit']",dessert,Various,Various
+Foi Thong,ฝอยทอง,"['flour', 'sugar', 'egg yolk']",dessert,Various,Various
+Fak Khiao Kwan,ฟักเขียวกวน,"['wax gourd', 'sugar', 'coconut milk']",dessert,Various,Various
+Med Kanoon,เม็ดขนุน,"['green beans', 'sugar', 'egg yolk']",dessert,Various,Various
+Roti,โรตี,"['flour', 'oil', 'sugar']",snack,Various,Various
+Roti Sai Mai,โรตีสายไหม,"['flour', 'sugar', 'cotton candy']",snack,Various,Various
+Lot Chong,ลอดช่อง,"['flour', 'pandan', 'coconut milk']",dessert,Various,Various
+Luk Chup,ลูกชุบ,"['mung beans', 'coconut milk', 'sugar']",dessert,Various,Various
+Som Chun,ส้มฉุน,"['herbs', 'fruit', 'fish sauce']",salad,Various,Various
+Sankhaya Kuan,สังขยากวน,"['flour', 'coconut milk', 'egg']",dessert,Various,Various
+Sankhaya Nueng,สังขยานึ่ง,"['flour', 'coconut milk', 'egg']",dessert,Various,Various
+Kai Jo  ,ไก่จ๊อ,"['chicken', 'flour', 'egg']",snack,Unknown,Unknown
+Yum Ruam Mit  ,ยำรวมมิตร,"['seafood', 'glass noodles', 'fish sauce', 'vegetable']",main dish,Various,Various
+Yum Woon Sen  ,ยำวุ้นเส้น,"['glass noodles', 'fish sauce', 'vegetable']",main dish,Various,Various
+Som Tam Pu Pla Ra  ,ส้มตำปลาร้า,"['papaya', 'pickled fish', 'fish sauce', 'garlic', 'chili']",main dish,Various,Various
+Khao Niao Moo Ping  ,ข้าวเหนียวหมูปิ้ง,"['pork', 'sticky rice']",main dish,Various,Various
+Khao Niao Kai Tod  ,ข้าวเหนียวไก่ทอด,"['chicken', 'flour', 'sticky rice']",main dish,Various,Various
+Ba Mee Kueng Samret Ruup  ,บะหมี่กึ่งสำเร็จรูป,"['instant noodles', 'broth']",main dish,Various,Various
+Kai Tod  ,ไก่ทอด,"['chicken', 'flour', 'salt']",main dish,Various,Various
+Pu Pad Pong Ka Ree  ,ปูผัดผงกะหรี่,"['crab', 'egg', 'curry powder']",main dish,Various,Various
+Moo Ka Ta  ,หมูกะทะ,"['pork', 'broth', 'vegetable']",main dish,Various,Various
+Shabu,ชาบู,"['pork', 'broth', 'vegetable']",main dish,Various,Various
+Kra Pao Pla,กระเพาะปลา,"['chicken broth', 'dried fish maw']",main dish,Various,Various
+Khao Moo Daeng,ข้าวหมูแดง,"['pork', 'rice']",main dish,Various,Various
+Khao Moo Grob,ข้าวหมูกรอบ,"['pork', 'rice', 'oil']",main dish,Various,Various
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples,Italy
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo,Japan
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia,Spain
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City,Mexico
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing,China
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris,France
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul,South Korea
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok,Thailand
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad,India
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London,United Kingdom
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 0,Spain
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London 1,United Kingdom
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 2,South Korea
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 3,Spain
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 4,China
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 5,South Korea
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 6,South Korea
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 7,South Korea
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 8,India
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 9,India
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris 0,France
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 1,Italy
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 2,Italy
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 3,India
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 4,Spain
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London 5,United Kingdom
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris 6,France
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 7,China
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 8,Mexico
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 9,South Korea
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 0,China
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 1,China
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo 2,Japan
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 3,Spain
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 4,Thailand
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London 5,United Kingdom
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 6,Thailand
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 7,India
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 8,South Korea
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris 9,France
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 0,South Korea
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London 1,United Kingdom
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 2,China
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 3,South Korea
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo 4,Japan
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 5,Italy
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris 6,France
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 7,South Korea
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 8,Italy
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 9,South Korea
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London 0,United Kingdom
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 1,Mexico
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 2,India
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 3,China
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 4,Spain
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 5,China
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 6,Italy
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 7,Spain
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 8,India
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 9,South Korea
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 0,India
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris 1,France
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 2,Thailand
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 3,Thailand
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 4,Mexico
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 5,China
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 6,Thailand
+Croissant,ครัวซองต์,"['flour', 'butter', 'sugar', 'yeast']",breakfast,Paris 7,France
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo 8,Japan
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 9,South Korea
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 0,Thailand
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 1,China
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 2,Thailand
+Biryani,ข้าวหมก,"['rice', 'spices', 'meat', 'yogurt']",main dish,Hyderabad 3,India
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 4,Spain
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 5,South Korea
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 6,South Korea
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 7,Mexico
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 8,China
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 9,Thailand
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 0,Thailand
+Pad Thai,ผัดไทย,"['rice noodles', 'shrimp', 'bean sprouts', 'peanuts']",main dish,Bangkok 1,Thailand
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 2,Italy
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 3,Italy
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 4,Italy
+Kimchi,กิมจิ,"['cabbage', 'chili', 'garlic', 'salt']",side dish,Seoul 5,South Korea
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 6,Italy
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo 7,Japan
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 8,Spain
+Pizza Margherita,พิซซ่ามาร์เกอริต้า,"['flour', 'tomato', 'mozzarella', 'basil']",main dish,Naples 9,Italy
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 0,China
+Fish and Chips,ฟิชแอนด์ชิพส์,"['fish', 'potatoes', 'flour', 'vinegar']",main dish,London 1,United Kingdom
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 2,Spain
+Paella,ปาเอญ่า,"['rice', 'seafood', 'saffron', 'vegetables']",main dish,Valencia 3,Spain
+Peking Duck,เป็ดปักกิ่ง,"['duck', 'hoisin sauce', 'cucumber', 'scallions']",main dish,Beijing 4,China
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 5,Mexico
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 6,Mexico
+Tacos,ทาโก้,"['corn tortilla', 'meat', 'cheese', 'salsa']",main dish,Mexico City 7,Mexico
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo 8,Japan
+Sushi,ซูชิ,"['rice', 'vinegar', 'fish', 'seaweed']",main dish,Tokyo 9,Japan
