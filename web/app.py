@@ -44,7 +44,7 @@ with open("D:\MiniProjectML\ML\92_84\\tokenizer.pickle", 'rb') as handle:
 max_len = model.input_shape[0][1]
 
 
-# ✅ โหลด dataset จากไฟล์ CSV
+# โหลด dataset จากไฟล์ CSV
 def load_data():
     file_path = "D:\MiniProjectML\dataset\cleaned1_thailand_foods.csv"  # ปรับ path ให้ตรงกับไฟล์จริง
     df = pd.read_csv(file_path)
@@ -54,14 +54,14 @@ def load_data():
 
 df = load_data()
 
-# ✅ โหลด Tokenizer และสร้าง Sequence
+# โหลด Tokenizer และสร้าง Sequence
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(df["ingredient_text"])  # Fit tokenizer กับ dataset จริง
 sequences = tokenizer.texts_to_sequences(df["ingredient_text"])
 max_len = max(map(len, sequences))  # หาความยาวสูงสุดของ sequence
 x_data = pad_sequences(sequences, maxlen=max_len)
 
-# ✅ โหลดโมเดลที่เทรนแล้ว
+# โหลดโมเดลที่เทรนแล้ว
 custom_objects = {'AttentionLayer': AttentionLayer, 'euclidean_distance': euclidean_distance}
 siamese_model = load_model("D:\MiniProjectML\ML\92_84\siamese_food_recommendation_model.h5", compile=False)
 
@@ -81,34 +81,34 @@ def recommend_foods(available_ingredients, allergic_ingredients=[], top_n=10):
     if not available_ingredients:
         return "Please enter at least one available ingredient!!!"
 
-    # ✅ Convert input ingredients into text and tokenize
+    # Convert input ingredients into text and tokenize
     input_text = " ".join(available_ingredients)
     input_seq = tokenizer.texts_to_sequences([input_text])
     input_seq = pad_sequences(input_seq, maxlen=max_len)
 
-    # ✅ Remove allergic ingredients from all recipes
+    # Remove allergic ingredients from all recipes
     modified_df = df.copy()
     modified_df["ingredients"] = modified_df["ingredients"].apply(
         lambda ing: [item for item in ing if item not in allergic_ingredients]
     )
     
-    # ✅ Create modified text for tokenization
+    # Create modified text for tokenization
     modified_df["ingredient_text"] = modified_df["ingredients"].apply(lambda ing: " ".join(ing))
     
-    # ✅ Tokenize and pad the modified ingredients
+    # Tokenize and pad the modified ingredients
     modified_sequences = tokenizer.texts_to_sequences(modified_df["ingredient_text"])
     modified_sequences = pad_sequences(modified_sequences, maxlen=max_len)
 
-    # ✅ Use Siamese model to compute similarity
+    # Use Siamese model to compute similarity
     similarities = siamese_model.predict([np.tile(input_seq, (len(modified_sequences), 1)), modified_sequences]).flatten()
 
-    # ✅ Compute importance scores based on matching ingredients
+    # Compute importance scores based on matching ingredients
     importance_scores = np.array([
         sum(1 for ing in available_ingredients if ing in row) for row in modified_df["ingredients"]
     ])
     weighted_similarities = similarities + (0.5 * importance_scores / max(importance_scores, default=1))
 
-    # ✅ Select Top-N most similar menus
+    # Select Top-N most similar menus
     top_indices = weighted_similarities.argsort()[-top_n:][::-1]
     recommended_menus = modified_df.iloc[top_indices][["en_name", "th_name", "ingredients"]]
 
@@ -208,8 +208,71 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# Initialize session state for navigation
+if "current_page" not in st.session_state:
+    st.session_state["current_page"] = "Recommended Dishes"
 
-page = st.sidebar.radio("PAGE", ["Recommended Dishes", "All menu","About"])
+# Sidebar Styling
+st.sidebar.markdown(
+    """
+    <style>
+    section[data-testid="stSidebar"] {
+        background-color: #1E1E1E; /* Dark sidebar */
+        padding: 20px;
+    }
+
+    .sidebar-title {
+        font-size: 20px;
+        font-weight: bold;
+        color: #FF7043;
+        margin-bottom: 15px;
+    }
+
+    .sidebar-button {
+        background-color: #333333;
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 10px;
+        border-radius: 8px;
+        border: none;
+        text-align: center;
+        width: 80%;
+        transition: all 0.3s ease-in-out;
+        margin: 5px 0;
+    }
+
+    .sidebar-button:hover {
+        background-color: #FF7043;
+        color: black;
+        cursor: pointer;
+    }
+
+    .sidebar-button-active {
+        background-color: #FF7043;
+        color: black;
+        font-weight: bold;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# Sidebar Title
+st.sidebar.markdown('<p class="sidebar-title">PAGE</p>', unsafe_allow_html=True)
+
+# Sidebar Navigation using Buttons
+if st.sidebar.button("Recommended Dishes", key="btn_recommend"):
+    st.session_state["current_page"] = "Recommended Dishes"
+
+if st.sidebar.button("All Menu", key="btn_all_menu"):
+    st.session_state["current_page"] = "All Menu"
+
+if st.sidebar.button("About", key="btn_about"):
+    st.session_state["current_page"] = "About"
+
+# Display the selected page
+page = st.session_state["current_page"]
 
 if page == "Recommended Dishes":
 
@@ -237,7 +300,7 @@ if page == "Recommended Dishes":
                 unsafe_allow_html=True
             )
 
-elif page == "All menu":
+elif page == "All Menu":
     st.title("📜 All menu")
     # st.write("ตารางรวมเมนูทั้งหมดจากฐานข้อมูล")
 
@@ -304,9 +367,6 @@ elif page == "About":
         ## Contact & Resources
         - **GitHub**: [Project Repository](https://github.com/ARen990/miniPROJECT_whatUeat)
         - **Email**: krittimonp28@gmail.com
-        - **Youtube**: [Your Profile](https://linkedin.com/in/your-profile)
+        - **Youtube**: [Recommended clip for use](https://www.youtube.com/watch?v=kQNpnsV4ViA)
         """
     )
-
-    # # ✅ Optionally, add an image (like a logo or a sample recommendation)
-    # st.image("https://example.com/your-image.jpg", use_column_width=True)
