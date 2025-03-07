@@ -17,9 +17,9 @@ The Siamese Neural Network model comprises:
 - Lambda Layer (Euclidean distance calculation)
 - Dense Layer (output: [None, 1])
 
-![Model Architecture](<![Screenshot 2025-03-07 130034](https://github.com/user-attachments/assets/bd823ee3-41ab-47f0-8329-9af2b86a6d2a)
->)
+[Screenshot 2025-03-07 130034](https://github.com/user-attachments/assets/bd823ee3-41ab-47f0-8329-9af2b86a6d2a)
 
+  I tested this model using `...\ML\92_84\siamese_food_recommendation_model.h5`
 
 ## Dataset
 The dataset used is Thai food menu data from the file `cleaned1_thailand_foods.csv`, containing menu names (in Thai and English) and ingredients for each dish.
@@ -54,11 +54,15 @@ streamlit run app.py
 5. Click to get food recommendations.
 
 ## Result
-The dataset used is Thai food recipes, stored in the file `cleaned1_thailand_foods.csv`. It includes menu names (both Thai and English) and their respective ingredients.
+I tested this model using `...\ML\92_84\siamese_food_recommendation_model.h5`
+![download](https://github.com/user-attachments/assets/b7293a9e-1e42-4699-a4be-33a25c2d0c23)
+
+When tested on the web
+![image](https://github.com/user-attachments/assets/7fcaa85f-c41b-4f09-b3d3-fc37b3f2629d)
 
 
 ## 📬 Contact
 - **GitHub:** [ARen990](https://github.com/ARen990)
 - **Email:** krittimonp28@gmail.com
-
+- **X:** [Aenijin](https://x.com/Aenijin)
 
