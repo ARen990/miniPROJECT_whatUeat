@@ -2,12 +2,16 @@
 ---
 
 ## Description
-    This project is a web application utilizing a Siamese Neural Network to recommend suitable dishes based on the ingredients users have available. It can also automatically filter out dishes containing ingredients that users are allergic to or do not wish to consume, helping users decide their meals daily.
+This project is a web application utilizing a Siamese Neural Network to recommend suitable dishes based on the ingredients users have available. It can also automatically filter out dishes containing ingredients that users are allergic to or do not wish to consume, helping users decide their meals daily.
 
-## 🤔 Problem &  Solution
-    In daily life, many individuals struggle with deciding what to eat, often asking friends for suggestions that may still not be satisfactory or compatible with available ingredients. This project addresses this issue by utilizing a Siamese Neural Network to analyze ingredient similarity, recommend dishes that closely match user preferences, and automatically exclude dishes with unwanted or allergenic ingredients.
+---
 
-## 📌 Model Architecture
+## Problem &  Solution
+In daily life, many individuals struggle with deciding what to eat, often asking friends for suggestions that may still not be satisfactory or compatible with available ingredients. This project addresses this issue by utilizing a Siamese Neural Network to analyze ingredient similarity, recommend dishes that closely match user preferences, and automatically exclude dishes with unwanted or allergenic ingredients.
+
+---
+
+## Model Architecture
 The Siamese Neural Network model comprises:
 
 - Input Layer (shape: [None, 9]) for ingredient data
@@ -19,16 +23,20 @@ The Siamese Neural Network model comprises:
 
 ![Model Architecture](<Insert model architecture image here>)
 
-## 📚 Dataset
+---
+
+## Dataset
 The dataset used is Thai food menu data from the file `cleaned1_thailand_foods.csv`, containing menu names (in Thai and English) and ingredients for each dish.
 
-## 📁 Installation
+---
+
+## Installation
 ```bash
 git clone https://github.com/ARen990/miniPROJECT_whatUeat.git
 pip install -r requirements.txt
 ```
 
-### ⚙️ Additional Code Information
+### Additional Code Information
 
 For further model modification or retraining:
 - `Trainmodelfood.ipynb` (Jupyter Notebook for training and adjusting the model)
@@ -40,7 +48,9 @@ Ensure TensorFlow and Streamlit are installed:
 pip install tensorflow streamlit numpy pandas
 ```
 
-## ▶️ Usage
+---
+
+## Usage
 1. Run the web application using the command:
 ```bash
 streamlit run app.py
@@ -50,8 +60,10 @@ streamlit run app.py
 4. Select the number of recommended dishes.
 5. Click to get food recommendations.
 
-## 📚 Dataset
+## Result
 The dataset used is Thai food recipes, stored in the file `cleaned1_thailand_foods.csv`. It includes menu names (both Thai and English) and their respective ingredients.
+
+---
 
 ## 📬 Contact
 - **GitHub:** [ARen990](https://github.com/ARen990)
