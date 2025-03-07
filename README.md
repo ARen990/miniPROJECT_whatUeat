@@ -17,7 +17,8 @@ The Siamese Neural Network model comprises:
 - Lambda Layer (Euclidean distance calculation)
 - Dense Layer (output: [None, 1])
 
-![Model Architecture](<Insert model architecture image here>)
+![Model Architecture](<![Screenshot 2025-03-07 130034](https://github.com/user-attachments/assets/bd823ee3-41ab-47f0-8329-9af2b86a6d2a)
+>)
 
 
 ## Dataset
