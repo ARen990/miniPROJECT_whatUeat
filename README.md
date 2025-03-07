@@ -17,7 +17,7 @@ The Siamese Neural Network model comprises:
 - Lambda Layer (Euclidean distance calculation)
 - Dense Layer (output: [None, 1])
 
-[Screenshot 2025-03-07 130034](https://github.com/user-attachments/assets/bd823ee3-41ab-47f0-8329-9af2b86a6d2a)
+![Screenshot 2025-03-07 130034](https://github.com/user-attachments/assets/e40278fe-47ff-462a-acaa-8dc4270ce5a8)
 
   I tested this model using `...\ML\92_84\siamese_food_recommendation_model.h5`
 
