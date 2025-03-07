@@ -21,7 +21,8 @@ The Siamese Neural Network model comprises:
 
 this diagrams model
 
-![diagramjustdoit](https://github.com/user-attachments/assets/2b0d910f-5742-4b53-a775-a046edf96015)
+![diagramjustdoit](https://github.com/user-attachments/assets/e849daaa-2a96-43c9-adc1-71a568b3d478)
+
 
 
   I tested this model using `...\ML\92_84\siamese_food_recommendation_model.h5`
